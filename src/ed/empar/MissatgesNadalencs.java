@@ -148,7 +148,12 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC6() {
-
+		System.out.println("=================================");
+		System.out.println("|Hola, sóc ADRIÁN y es desitje  |");
+		System.out.println("|BONES FESTES a tot el mon i que|");
+		System.out.println("|tots aprovem ED el proxim any. |");
+		System.out.println("=================================");
+		System.out.println();
 	}
 
 	// FILA 3
