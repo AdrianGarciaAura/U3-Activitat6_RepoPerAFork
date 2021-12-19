@@ -68,7 +68,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila2 PC5:
 
 
-#### AlumneFila2 PC6:
+#### AlumneFila2 PC6: Adrián García Aura, afegit metode AlumneFila2PC6.
 
 
 
